@@ -44,3 +44,4 @@ Due to a current issue with Colyseus, you might need to set Managed Stripping Le
 
 - [Colyseus GitHub](https://github.com/colyseus/colyseus)
 - [Colyseus Documentation](https://docs.colyseus.io)
+- [Dissonity Documentation](https://dissonity.dev)
